@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanabe23
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning basic Web Development
 - 💞️ I’m looking to collaborate on any personal projects
 - 📫 How to reach me jordanab@umd.edu
