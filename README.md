@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any personal projects
 - 📫 How to reach me jordanab@umd.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I first spliced my own lan cable so I could play videogames!
 
 <!---
 jordanabe23/jordanabe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
