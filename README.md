@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=jordanabe23&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanabe23&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jordanabe23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
